@@ -1,0 +1,17 @@
+makale notları
+chapaloglou nesiadis: ANN ve fuzzy(İhsan hoca sevmiyor)
+ANN 1.87% mape --> (forecasted load-true load)/true load
+önceki günlerin loadlarını hesaplayıp input layerda onu veriyor
+önceki günün 24 saatlik sıcaklık verisini alıyor
+haftanın hangi günü olduğunu veeriyor
+weekend day mi working day mi ona bakıyor
+
+
+hong, wang, song, gao, liu, dongteng long
+Algorithms					Accuracy(%)	Time-consumed (seconds)
+deep belief network least square SVM DBN-LSSVM	99.57	3124.24
+LSSVM						75.7	9072.75
+K-means						28.3	235.68
+PCA-LSSVM					90.8	10675.43
+
+datapointleri (time point olarak bütün infolarıyla store edip k means yapılabilir mi?)
