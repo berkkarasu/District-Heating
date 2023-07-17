@@ -1,0 +1,16 @@
+if (Cooling_Load <= 24.975) and (Cooling_Load <= 16.31) and (Glazing_Area > 0.05) then response: 12.323 | based on 163 samples
+
+if (Cooling_Load > 24.975) and (Cooling_Load <= 34.835) and (Cooling_Load > 29.435) then response: 30.466 | based on 115 samples
+
+if (Cooling_Load <= 24.975) and (Cooling_Load > 16.31) and (Cooling_Load <= 21.365) then response: 15.359 | based on 110 samples
+
+if (Cooling_Load > 24.975) and (Cooling_Load > 34.835) and (Surface_Area > 612.5) then response: 38.833 | based on 68 samples
+
+if (Cooling_Load > 24.975) and (Cooling_Load <= 34.835) and (Cooling_Load <= 29.435) then response: 25.626 | based on 60 samples
+
+if (Cooling_Load > 24.975) and (Cooling_Load > 34.835) and (Surface_Area <= 612.5) then response: 33.772 | based on 23 samples
+
+if (Cooling_Load <= 24.975) and (Cooling_Load > 16.31) and (Cooling_Load > 21.365) then response: 19.619 | based on 20 samples
+
+if (Cooling_Load <= 24.975) and (Cooling_Load <= 16.31) and (Glazing_Area <= 0.05) then response: 7.095 | based on 17 samples
+

@@ -1,0 +1,48 @@
+{
+    "columns": [
+        "Relative_Compactness",
+        "Surface_Area",
+        "Wall_Area",
+        "Roof_Area",
+        "Overall_Height",
+        "Orientation",
+        "Glazing_Area",
+        "Glazing_Area_Distribution",
+        "Cooling_Load"
+    ],
+    "rows": 768,
+    "cols": 9,
+    "target_is_numeric": true,
+    "columns_info": {
+        "Relative_Compactness": [
+            "scale"
+        ],
+        "Surface_Area": [
+            "scale"
+        ],
+        "Wall_Area": [
+            "scale"
+        ],
+        "Roof_Area": [
+            "scale"
+        ],
+        "Overall_Height": [
+            "scale"
+        ],
+        "Orientation": [
+            "scale"
+        ],
+        "Glazing_Area": [],
+        "Glazing_Area_Distribution": [
+            "scale"
+        ],
+        "Cooling_Load": [
+            "scale"
+        ]
+    },
+    "target_info": [
+        "scale_log"
+    ],
+    "n_features": 9,
+    "is_sample_weighted": false
+}

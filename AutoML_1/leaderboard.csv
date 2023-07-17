@@ -1,0 +1,4 @@
+name,model_type,metric_type,metric_value,train_time
+1_Baseline,Baseline,rmse,10.264030775832099,0.42
+2_DecisionTree,Decision Tree,rmse,2.29303889190002,9.97
+Ensemble,Ensemble,rmse,2.29303889190002,0.09
