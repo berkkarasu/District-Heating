@@ -1,0 +1,10 @@
+feature,shap_importance
+Cooling_Load,0.7684114377403564
+Roof_Area,0.07870082749025005
+Glazing_Area,0.04247562963972085
+Relative_Compactness,0.021523779873572155
+Wall_Area,0.01725392485404692
+Surface_Area,0.012617671022945892
+Glazing_Area_Distribution,0.00688578211539832
+Orientation,0.00027362352354076534
+Overall_Height,0.0
